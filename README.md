@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on new AI-related projects.
 - 🌱 I’m diving deep into learning everything there is to know about AI.
-- 🎓 Aspiring to further my AI skills at SIT/SUSS.
+- 🎓 Aspiring to further my AI skills at SIT.
 
 
 ## 🌐 Socials:
